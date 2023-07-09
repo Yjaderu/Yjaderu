@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Helloworld.exe
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Helloworld.dll
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Helloworld.deps.json
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Helloworld.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Helloworld.pdb
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\OneDrive\Desktop\Helloworld\Helloworld\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
